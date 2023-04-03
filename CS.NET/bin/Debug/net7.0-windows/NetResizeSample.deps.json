@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NetResizeSample/1.0.0": {
+        "dependencies": {
+          "Softgroup.NetResize70": "12.0.0.16339"
+        },
+        "runtime": {
+          "NetResizeSample.dll": {}
+        }
+      },
+      "Softgroup.NetResize70/12.0.0.16339": {
+        "runtime": {
+          "Softgroup.NetResize70.dll": {
+            "assemblyVersion": "12.0.0.16339",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetResizeSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softgroup.NetResize70/12.0.0.16339": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

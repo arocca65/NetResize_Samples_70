@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VBSample", "VBSample.vbproj", "{52989760-9427-4019-8213-C36823F38E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Sviluppo|Any CPU = Sviluppo|Any CPU
+		Trial|Any CPU = Trial|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52989760-9427-4019-8213-C36823F38E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Sviluppo|Any CPU.ActiveCfg = Release|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Sviluppo|Any CPU.Build.0 = Release|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Trial|Any CPU.ActiveCfg = Release|Any CPU
+		{52989760-9427-4019-8213-C36823F38E5B}.Trial|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1391B7E3-3E4D-4638-85C6-22C3EA22D35B}
+	EndGlobalSection
+EndGlobal
